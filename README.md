@@ -11,8 +11,10 @@ OC版本 0.8.8
 
 机型 MacPro 7.1
 
-Others文件夹内有三个博通网卡的kext 适用于 0x21ff 的bcm943602cs 修复蓝牙
-[具体教程](https://sxz799.ml/posts/hackintosh/2023-02-02-bcm943602cs%E8%93%9D%E7%89%99%E4%BF%AE%E5%A4%8D%E8%AE%B0%E5%BD%95/)
+由于我的网卡id 0x21ff特殊 故加了 三个蓝牙kext
+正常的白果拆机卡可以把那三个驱动去掉
+
+
 
 
 
