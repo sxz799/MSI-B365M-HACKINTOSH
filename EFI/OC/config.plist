@@ -1164,7 +1164,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>F5K948405CDFHDDUE</string>
 			<key>ProcessorType</key>
 			<integer>3842</integer>
 			<key>ROM</key>
@@ -1176,9 +1176,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>F5KZRBZPP7QM</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>5C52F84D-C64E-4B06-B1CF-CB2A417EE5BB</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1276,7 +1276,7 @@
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
-				<string>OpenCanopy.efi</string>
+				<string>HfsPlus.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
@@ -1288,7 +1288,7 @@
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
-				<string>OpenHfsPlus.efi</string>
+				<string>OpenCanopy.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>

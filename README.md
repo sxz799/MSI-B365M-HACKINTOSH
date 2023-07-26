@@ -1,5 +1,5 @@
 # MSI-B365M-HACKINTOSH
-| | 配置表 |
+| |  配置表 |
 |---|--|
 |主板 |MSI B365M PRO VH|
 |CPU |intel i5 9400F|
@@ -22,6 +22,9 @@ OC版本 0.9.2
 
 ## 2023年05月18日22:34:11
 添加启动界面主题
+
+## 2023年07月26日21:08:16
+使用HfsPlus.efi代替OpenHfsPlus.efi
 
 
 
