@@ -8,6 +8,11 @@
 |固态| 海康威视 512G|
 |网卡| bcm943602cs|
 
+## 开启软件任何来源
+```
+sudo spctl --master-disable
+```
+
 OC版本 0.9.2
 
 机型 MacPro 7.1
