@@ -963,7 +963,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>ScanPolicy</key>
-			<integer>17764099</integer>
+			<integer>986883</integer>
 			<key>SecureBootModel</key>
 			<string>j160</string>
 			<key>Vault</key>
@@ -1165,9 +1165,9 @@
 			<key>MLB</key>
 			<string>F5K9123004NFHDDA8</string>
 			<key>ProcessorType</key>
-			<integer>3842</integer>
+			<integer>0</integer>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>LB61kP3w</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1177,7 +1177,7 @@
 			<key>SystemSerialNumber</key>
 			<string>F5KYG8ZMP7QM</string>
 			<key>SystemUUID</key>
-			<string>DD5FEAC7-A369-4D98-B235-9EA7F13835A7</string>
+			<string>E9B25FC8-1D30-49AF-AEAD-22723190FDF0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
